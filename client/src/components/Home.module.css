@@ -1,0 +1,65 @@
+
+
+
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+
+.link{
+	text-decoration: none;
+}
+
+.cabecera{
+	height: 26px;
+	display: flex;
+}
+
+.henry{
+	margin-top: -7px;
+	margin-left: 250px;
+}
+
+.crear{
+	margin-left: 180px;
+	margin-top: 6px;
+}
+
+.reload{
+	margin-top: 6px;
+	margin-left: 180px;
+	border-bottom: auto;
+}
+
+.containertemp{
+	display: flex;
+	height: 15px;
+}
+
+.filter1{
+	margin-top: 12px;
+}
+
+.filter2{
+	margin-top: 12px;
+	margin-left: 48px;
+}
+
+.filter3{
+	margin-top: 12px;
+	margin-left: 238px;
+}
+
+.filter4{
+	margin-top: 12px;
+	margin-left: 28px;
+	color: white;
+}
+
+.paginated{
+	margin-top: 30px;
+	margin-left: 300px;
+}

@@ -1,0 +1,21 @@
+
+.botones {
+    margin-left: 500px;
+}
+
+.to2 {
+	display: flex;
+}
+
+.container{
+	width: 500px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+.image {
+	margin-top: 35px;
+	margin-left: 70px;
+	width : 700px;
+    height : 500px
+}
